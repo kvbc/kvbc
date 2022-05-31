@@ -4,7 +4,7 @@ Currently learning Java and putting on hold some projects:
 - cge
 - mpmp
 
-Career goals
+Career goals  
 ❌ SQL  
 ❌ Spring  
 ❌ Hibernate  
