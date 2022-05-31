@@ -1,6 +1,5 @@
 I love C and Rust  
-Maining C, C++ and C# (currently learning)  
-Putting on hold some projects:
+Currently learning Java and putting on hold some projects:
 - maincraft
 - cge
 - mpmp
