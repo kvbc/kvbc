@@ -5,13 +5,13 @@ Currently learning Java and putting on hold some projects:
 - mpmp
 
 Career goals  
-❌ SQL  
-❌ Spring  
-❌ Hibernate  
-❌ REST  
-❌ Maven  
-❌ JIRA  
-❌ Jenkins  
-❌ JPA  
-❌ Docker  
-❌ JUnit
+- SQL ❌  
+- Spring ❌
+- Hibernate ❌
+- REST ❌
+- Maven ❌
+- JIRA ❌
+- Jenkins ❌
+- JPA ❌
+- Docker ❌
+- JUnit ❌
