@@ -4,5 +4,6 @@ Currently learning Java and putting on hold some projects:
 - cge
 - mpmp
 
-Some other profiles
-- Bukkit - [mrsot](https://bukkit.org/members/mrsot.91427487/)
+Some other accounts
+- (MAL)[https://myanimelist.net/profile/kewtas]
+- (Steam)[https://steamcommunity.com/profiles/76561198414549169]
