@@ -10,6 +10,7 @@ Putting on hold some projects:
 - maincraft
 - cge
 - mpmp
+- SMPL
 
 Some other accounts
 - [MAL](https://myanimelist.net/profile/kewtas)
