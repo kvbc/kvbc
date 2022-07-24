@@ -1,7 +1,10 @@
 Idk, I've got some experience in
 - C
 - C++
-- JS
+- Java
+- GDScript
+- Python
+- BASIC (lol)
 
 I love C and Rust  
 Currently learning Java and putting on hold some projects:
