@@ -1,3 +1,5 @@
+!()[https://cdn.frankerfacez.com/emoticon/457124/2]
+
 Idk, I've got some experience in C/C++
 
 Putting on hold some projects:
