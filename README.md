@@ -14,7 +14,7 @@ Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
 - bf-ide - online BrainFuck interpreter + debugger
 
-![](gif/bf-ide.gif)
+![](img/bf-ide.jpg)
 
 - SMPL - full-blown BASIC compiler (in-progress)
 
