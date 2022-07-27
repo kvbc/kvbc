@@ -1,9 +1,4 @@
-Idk, I've got some experience in
-- C
-- C++
-- Java
-- JavaScript
-- Python
+Idk, I've got some experience in C/C++
 
 Putting on hold some projects:
 - maincraft
