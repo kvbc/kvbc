@@ -8,4 +8,6 @@ Putting on hold some projects:
 
 Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
-- SMPL - A BASIC compiler
+- cge - an windows command-line rendering engine
+
+![](gif/cge.gif)
