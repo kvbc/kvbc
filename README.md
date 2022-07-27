@@ -12,7 +12,7 @@ Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
 ![](gif/cge.gif)
 
-- bf-ide - online BrainFuck interpreter + debugger
+- bf-ide - online customizable BrainFuck interpreter + debugger
 
 ![](img/bf-ide.jpg)
 
