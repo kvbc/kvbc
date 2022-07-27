@@ -8,4 +8,4 @@ Putting on hold some projects:
 
 Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
-SMPL - A BASIC compiler
+- SMPL - A BASIC compiler
