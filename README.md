@@ -2,6 +2,7 @@ Idk, I've got some experience in
 - C
 - C++
 - Java
+- JavaScript
 - Python
 
 Putting on hold some projects:
