@@ -2,9 +2,7 @@ Idk, I've got some experience in
 - C
 - C++
 - Java
-- GDScript
 - Python
-- BASIC (lol)
 
 Putting on hold some projects:
 - maincraft
