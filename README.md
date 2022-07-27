@@ -1,4 +1,4 @@
-!()[https://cdn.frankerfacez.com/emoticon/457124/2]
+![](https://cdn.frankerfacez.com/emoticon/457124/2)
 
 Idk, I've got some experience in C/C++
 
