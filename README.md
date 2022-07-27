@@ -19,3 +19,7 @@ Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 - SMPL - full-blown BASIC compiler (in-progress)
 
 ![](gif/smpl.gif)
+
+- lamp - minecraft CPU
+
+![](gif/lamp.gif)
