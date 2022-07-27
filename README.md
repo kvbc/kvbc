@@ -8,6 +8,10 @@ Putting on hold some projects:
 
 Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
-- cge - an Windows command-line rendering engine using double-buffering
+- cge - an Windows command-line rendering engine using double-buffering (in-progress)
 
 ![](gif/cge.gif)
+
+- SMPL - full-blown BASIC compiler (in-progress)
+
+![](gif/smpl.gif)
