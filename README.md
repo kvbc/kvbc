@@ -35,10 +35,10 @@ Command-line:
 Games / Plugins:
 - [godot-game](https://www.github.com/kvbc/godot-game) 🚧
 - [jnc-showdown](https://www.github.com/kvbc/jnc-showdown)
-- [MineCommand](https://www.github.com/kvbc/MineCommand)
+- [MineCommand](https://www.github.com/kvbc/MineCommand) ✔️
 - [InfiniteRedstone](https://www.github.com/kvbc/InfiniteRedstone) ✔️
 - [EndlessDragon](https://www.github.com/kvbc/EndlessDragon) ✔️
-- [space_shooter](https://www.github.com/kvbc/space_shooter) ✔️
+- [space_shooter](https://www.github.com/kvbc/space_shooter)
 
 Tools:
 - [win-web-klgr](https://www.github.com/kvbc/win-web-klgr) ✔️
