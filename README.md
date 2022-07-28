@@ -47,7 +47,7 @@ Tools:
 - ✔️ [win-web-klgr](https://www.github.com/kvbc/win-web-klgr)
 - 🚧 [mpmp](https://www.github.com/kvbc/mpmp)
 - ➖ [ofp](https://www.github.com/kvbc/ofp)
-- ✔️ [cwma](https://www.github.com/kvbc/cwma) ✔️
+- ✔️ [cwma](https://www.github.com/kvbc/cwma)
 - ➖ [jctl](https://www.github.com/kvbc/jctl)
 - ✔️ [cmdblocks](https://www.github.com/kvbc/cmdblocks)
 
