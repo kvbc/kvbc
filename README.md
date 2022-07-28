@@ -6,6 +6,9 @@ Putting on hold some projects:
 - mpmp
 - SMPL
 
+Languages:
+- [SMPL](github.com/kvbc/smpl)
+
 Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
 - cge - an Windows command-line rendering engine using double-buffering (in-progress)
