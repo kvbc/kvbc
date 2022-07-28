@@ -2,7 +2,7 @@ I've got some experience in C/C++
 
 # Projects
 
-❌ Unsatisfied with
+❌ Unsatisfied with  
 ➖ May pick it up  
 🚧 In-progress  
 ✔️ Satisfied with
