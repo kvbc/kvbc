@@ -49,7 +49,7 @@ Sites:
 - [bf-ide](https://www.github.com/kvbc/bf-ide)
 - [cda-show-search](https://www.github.com/kvbc/cda-show-search)
 - [user-login-app](https://www.github.com/kvbc/user-login-app)
-- [boolean_simplifier](https://www.github.com/kvbc/boolean-simplifier)
+- [boolean_simplifier](https://www.github.com/kvbc/boolean_simplifier)
 
 # Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
