@@ -12,7 +12,7 @@ Graphics Programming:
 - [graph](https://www.github.com/kvbc/graph)
 - [maincraft](https://www.github.com/kvbc/maincraft)
 
-Programming languages:
+Programming languages (Compilers / Interpreters):
 - [SMPL](https://www.github.com/kvbc/smpl)
 - [brackets](https://www.github.com/kvbc/brackets)
 - [bf2c](https://www.github.com/kvbc/bf2c)
