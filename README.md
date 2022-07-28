@@ -2,9 +2,8 @@ I've got some experience in C/C++
 
 # Projects
 
-❌ Gave up on  
-⚠️ Stupid  
-➖ Undecided  
+❌ Unsatisfied with
+➖ May pick it up  
 🚧 In-progress  
 ✔️ Satisfied with
 
@@ -27,7 +26,7 @@ Command-line:
 - ✔️ [c-snake](https://www.github.com/kvbc/c-snake)
 - ✔️ [hangman](https://www.github.com/kvbc/hangman)
 - ✔️ [tic-tac-toe](https://www.github.com/kvbc/tic-tac-toe)
-- ⚠️ [cmd-calculator](https://www.github.com/kvbc/cmd-calculator)
+- ❌ [cmd-calculator](https://www.github.com/kvbc/cmd-calculator)
 
 Games / Plugins:
 - 🚧 [godot-game](https://www.github.com/kvbc/godot-game)
@@ -35,7 +34,7 @@ Games / Plugins:
 - ✔️ [MineCommand](https://www.github.com/kvbc/MineCommand)
 - ✔️ [InfiniteRedstone](https://www.github.com/kvbc/InfiniteRedstone)
 - ✔️ [EndlessDragon](https://www.github.com/kvbc/EndlessDragon)
-- ⚠️ [space_shooter](https://www.github.com/kvbc/space_shooter)
+- ❌ [space_shooter](https://www.github.com/kvbc/space_shooter)
 
 Tools:
 - ✔️ [win-web-klgr](https://www.github.com/kvbc/win-web-klgr)
