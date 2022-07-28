@@ -8,12 +8,15 @@ Putting on hold some projects:
 
 # Projects
 
+🚧 In-progress
+✔️ Satisfied with
+
 Graphics Programming:
 - [graph](https://www.github.com/kvbc/graph)
-- [maincraft](https://www.github.com/kvbc/maincraft)
+- [maincraft](https://www.github.com/kvbc/maincraft) 🚧
 
 Compilers / Interpreters:
-- [SMPL](https://www.github.com/kvbc/smpl)
+- [SMPL](https://www.github.com/kvbc/smpl) 🚧
 - [brackets](https://www.github.com/kvbc/brackets)
 - [bf2c](https://www.github.com/kvbc/bf2c)
 - [char](https://www.github.com/kvbc/char)
@@ -21,7 +24,7 @@ Compilers / Interpreters:
 - [factoreh](https://www.github.com/kvbc/factoreh)
 
 Command-line:
-- [cge](https://www.github.com/kvbc/cge)
+- [cge](https://www.github.com/kvbc/cge) 🚧
 - [128tetris](https://www.github.com/kvbc/128tetris)
 - [bittactoe](https://www.github.com/kvbc/bittactoe)
 - [c-snake](https://www.github.com/kvbc/c-snake)
@@ -30,18 +33,18 @@ Command-line:
 - [cmd-calculator](https://www.github.com/kvbc/cmd-calculator)
 
 Games / Plugins:
-- [godot-game](https://www.github.com/kvbc/godot-game)
+- [godot-game](https://www.github.com/kvbc/godot-game) 🚧
 - [jnc-showdown](https://www.github.com/kvbc/jnc-showdown)
 - [MineCommand](https://www.github.com/kvbc/MineCommand)
-- [InfiniteRedstone](https://www.github.com/kvbc/InfiniteRedstone)
-- [EndlessDragon](https://www.github.com/kvbc/EndlessDragon)
-- [space_shooter](https://www.github.com/kvbc/space_shooter)
+- [InfiniteRedstone](https://www.github.com/kvbc/InfiniteRedstone) ✔️
+- [EndlessDragon](https://www.github.com/kvbc/EndlessDragon) ✔️
+- [space_shooter](https://www.github.com/kvbc/space_shooter) ✔️
 
 Tools:
-- [win-web-klgr](https://www.github.com/kvbc/win-web-klgr)
-- [mpmp](https://www.github.com/kvbc/mpmp)
+- [win-web-klgr](https://www.github.com/kvbc/win-web-klgr) ✔️
+- [mpmp](https://www.github.com/kvbc/mpmp) 🚧
 - [ofp](https://www.github.com/kvbc/ofp)
-- [cwma](https://www.github.com/kvbc/cwma)
+- [cwma](https://www.github.com/kvbc/cwma) ✔️
 - [jctl](https://www.github.com/kvbc/jctl)
 - [cmd-blocks](https://www.github.com/kvbc/cmd-blocks)
 
