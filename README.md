@@ -8,8 +8,8 @@ Putting on hold some projects:
 
 # Projects
 
-🚧 In-progress
-✔️ Satisfied with
+[🚧] In-progress  
+[✔️] Satisfied with
 
 Graphics Programming:
 - [graph](https://www.github.com/kvbc/graph)
