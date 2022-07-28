@@ -7,6 +7,9 @@ I've got some experience in C/C++
 🚧 In-progress  
 ✔️ Satisfied with
 
+Tutorials:
+- 🚧 [opengl-2d-tutorial](https://www.github.com/kvbc/opengl-2d-tutorial)
+
 Tools / Libraries:
 - ✔️ [win-web-klgr](https://www.github.com/kvbc/win-web-klgr)
 - 🚧 [mpmp](https://www.github.com/kvbc/mpmp)
