@@ -15,8 +15,8 @@ Putting on hold some projects:
 [✔️] Satisfied with
 
 Graphics Programming:
-- [graph](https://www.github.com/kvbc/graph)
-- [maincraft](https://www.github.com/kvbc/maincraft) 🚧
+- ➖ [graph](https://www.github.com/kvbc/graph)
+- 🚧 [maincraft](https://www.github.com/kvbc/maincraft)
 
 Compilers / Interpreters:
 - 🚧 [SMPL](https://www.github.com/kvbc/smpl)
