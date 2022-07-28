@@ -8,7 +8,7 @@ Putting on hold some projects:
 
 # Projects
 
-[❌] Gave up on
+[❌] Gave up on  
 [🚧] In-progress  
 [✔️] Satisfied with
 
