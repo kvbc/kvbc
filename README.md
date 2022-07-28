@@ -6,6 +6,8 @@ Putting on hold some projects:
 - mpmp
 - SMPL
 
+# Projects
+
 Graphics Programming:
 - [graph](https://www.github.com/kvbc/graph)
 - [maincraft](https://www.github.com/kvbc/maincraft)
