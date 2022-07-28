@@ -1,11 +1,5 @@
 I've got some experience in C/C++
 
-Putting on hold some projects:
-- maincraft
-- cge
-- mpmp
-- SMPL
-
 # Projects
 
 ❌ Gave up on  
