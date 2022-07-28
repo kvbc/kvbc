@@ -49,6 +49,7 @@ Tools:
 - ✔️ [cwma](https://www.github.com/kvbc/cwma)
 - ➖ [jctl](https://www.github.com/kvbc/jctl)
 - ✔️ [cmdblocks](https://www.github.com/kvbc/cmdblocks)
+- ✔️ [tsgen](https://www.github.com/kvbc/tsgen)
 
 Sites:
 - ✔️ [bf-ide](https://www.github.com/kvbc/bf-ide)
