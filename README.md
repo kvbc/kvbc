@@ -9,8 +9,8 @@ Putting on hold some projects:
 # Projects
 
 [❌] Gave up on  
-[⚠️] Stupid
-[➖] Undecided
+[⚠️] Stupid  
+[➖] Undecided  
 [🚧] In-progress  
 [✔️] Satisfied with
 
