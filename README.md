@@ -8,11 +8,11 @@ Putting on hold some projects:
 
 # Projects
 
-[❌] Gave up on  
-[⚠️] Stupid  
-[➖] Undecided  
-[🚧] In-progress  
-[✔️] Satisfied with
+❌ Gave up on  
+⚠️ Stupid  
+➖ Undecided  
+🚧 In-progress  
+✔️ Satisfied with
 
 Graphics Programming:
 - ➖ [graph](https://www.github.com/kvbc/graph)
