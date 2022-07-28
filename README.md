@@ -7,7 +7,7 @@ Putting on hold some projects:
 - SMPL
 
 Languages:
-- [SMPL](www.github.com/kvbc/smpl)
+- [SMPL](https://www.github.com/kvbc/smpl)
 
 Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
