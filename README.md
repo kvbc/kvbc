@@ -8,6 +8,7 @@ Putting on hold some projects:
 
 # Projects
 
+[❌] Gave up on
 [🚧] In-progress  
 [✔️] Satisfied with
 
@@ -34,7 +35,7 @@ Command-line:
 
 Games / Plugins:
 - [godot-game](https://www.github.com/kvbc/godot-game) 🚧
-- [jnc-showdown](https://www.github.com/kvbc/jnc-showdown)
+- [jnc-showdown](https://www.github.com/kvbc/jnc-showdown) ❌
 - [MineCommand](https://www.github.com/kvbc/MineCommand) ✔️
 - [InfiniteRedstone](https://www.github.com/kvbc/InfiniteRedstone) ✔️
 - [EndlessDragon](https://www.github.com/kvbc/EndlessDragon) ✔️
