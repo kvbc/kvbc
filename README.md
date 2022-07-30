@@ -41,7 +41,7 @@ Command-line:
 - ❌ [cmd-calculator](https://www.github.com/kvbc/cmd-calculator)
 
 Games / Plugins:
-- 🚧 [godot-game](https://www.github.com/kvbc/godot-game)
+- ❌ [godot-game](https://www.github.com/kvbc/godot-game)
 - ❌ [jnc-showdown](https://www.github.com/kvbc/jnc-showdown)
 - ✔️ [MineCommand](https://www.github.com/kvbc/MineCommand)
 - ✔️ [InfiniteRedstone](https://www.github.com/kvbc/InfiniteRedstone)
