@@ -18,6 +18,7 @@ Tools / Libraries:
 - ➖ [jctl](https://www.github.com/kvbc/jctl)
 - ✔️ [cmdblocks](https://www.github.com/kvbc/cmdblocks)
 - ✔️ [tsgen](https://www.github.com/kvbc/tsgen)
+- ✔️ [epic](https://www.github.com/kvbc/epic)
 
 Graphics Programming:
 - ➖ [graph](https://www.github.com/kvbc/graph)
