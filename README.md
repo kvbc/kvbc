@@ -49,6 +49,7 @@ Games / Plugins:
 - ✔️ [InfiniteRedstone](https://www.github.com/kvbc/InfiniteRedstone)
 - ✔️ [EndlessDragon](https://www.github.com/kvbc/EndlessDragon)
 - ❌ [space_shooter](https://www.github.com/kvbc/space_shooter)
+- 🚧 [bimbam](https://www.github.com/kvbc/bimbam)
 
 Sites:
 - ✔️ [bf-ide](https://www.github.com/kvbc/bf-ide)
