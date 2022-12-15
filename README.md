@@ -41,6 +41,7 @@ Command-line:
 - ✔️ [hangman](https://www.github.com/kvbc/hangman)
 - ✔️ [tic-tac-toe](https://www.github.com/kvbc/tic-tac-toe)
 - ❌ [cmd-calculator](https://www.github.com/kvbc/cmd-calculator)
+- ❌ [discord-minesweeper-bot](https://www.github.com/kvbc/discord-minesweeper-bot)
 
 Games / Plugins:
 - ❌ [godot-game](https://www.github.com/kvbc/godot-game)
