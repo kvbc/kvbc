@@ -51,7 +51,7 @@ Games / Plugins:
 - ✔️ [EndlessDragon](https://www.github.com/kvbc/EndlessDragon)
 - ❌ [space_shooter](https://www.github.com/kvbc/space_shooter)
 - 🚧 [bimbam](https://www.github.com/kvbc/bimbam)
-- ✔️ [godot 4.0 multiplayer sample](https://github.com/kvbc/godot-4.0-multiplayer)
+- ✔️ [godot-4.0-multiplayer](https://github.com/kvbc/godot-4.0-multiplayer)
 
 Sites:
 - ✔️ [bf-ide](https://www.github.com/kvbc/bf-ide)
