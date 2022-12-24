@@ -52,6 +52,7 @@ Games / Plugins:
 - ❌ [space_shooter](https://www.github.com/kvbc/space_shooter)
 - 🚧 [bimbam](https://www.github.com/kvbc/bimbam)
 - ✔️ [godot-4.0-multiplayer](https://github.com/kvbc/godot-4.0-multiplayer)
+- ❌ [UpKnight](https://github.com/kvbc/upknight)
 
 Sites:
 - ✔️ [bf-ide](https://www.github.com/kvbc/bf-ide)
