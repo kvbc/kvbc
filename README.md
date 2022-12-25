@@ -53,6 +53,7 @@ Games / Plugins:
 - 🚧 [bimbam](https://www.github.com/kvbc/bimbam)
 - ✔️ [godot-4.0-multiplayer](https://github.com/kvbc/godot-4.0-multiplayer)
 - ❌ [UpKnight](https://github.com/kvbc/upknight)
+- ✔️ [Beat The Beat](https://github.com/kvbc/beat-the-beat)
 
 Sites:
 - ✔️ [bf-ide](https://www.github.com/kvbc/bf-ide)
