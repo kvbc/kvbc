@@ -61,6 +61,9 @@ Sites:
 - ✔️ [user-login-app](https://www.github.com/kvbc/user-login-app)
 - ✔️ [boolean_simplifier](https://www.github.com/kvbc/boolean_simplifier)
 
+- React
+- ✔️ [React Tic-Tac-Toe](https://github.com/kvbc/react-tic-tac-toe)
+
 # Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
 - cge - an Windows command-line rendering engine with double-buffering (in-progress)
