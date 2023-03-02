@@ -22,7 +22,7 @@ Tools / Libraries:
 
 Graphics Programming:
 - ➖ [graph](https://www.github.com/kvbc/graph)
-- 🚧 [maincraft](https://www.github.com/kvbc/maincraft)
+- ❌ [maincraft](https://www.github.com/kvbc/maincraft)
 - 🚧 [glez](https://www.github.com/kvbc/glez)
 
 Compilers / Interpreters:
