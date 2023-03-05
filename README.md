@@ -60,11 +60,10 @@ Sites:
 - ⚠️ [cda-show-search](https://www.github.com/kvbc/cda-show-search)
 - ✔️ [user-login-app](https://www.github.com/kvbc/user-login-app)
 - ✔️ [boolean_simplifier](https://www.github.com/kvbc/boolean_simplifier)
-
-React
-- ✔️ [React Tic-Tac-Toe](https://github.com/kvbc/react-tic-tac-toe)
-- ✔️ [React Landing Page](https://github.com/kvbc/react-landing-page/tree/main)
-- ✔️ [React Minesweeper](https://github.com/kvbc/react-minesweeper)
+- React:
+  - ✔️ [React Tic-Tac-Toe](https://github.com/kvbc/react-tic-tac-toe)
+  - ✔️ [React Landing Page](https://github.com/kvbc/react-landing-page/tree/main)
+  - ✔️ [React Minesweeper](https://github.com/kvbc/react-minesweeper)
 
 # Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
