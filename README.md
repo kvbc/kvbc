@@ -64,6 +64,7 @@ Sites:
   - ✔️ [React Tic-Tac-Toe](https://github.com/kvbc/react-tic-tac-toe)
   - ✔️ [React Landing Page](https://github.com/kvbc/react-landing-page/tree/main)
   - ✔️ [React Minesweeper](https://github.com/kvbc/react-minesweeper)
+  - ✔️ [React Graph Edit](https://github.com/kvbc/react-graph-edit)
 
 # Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
