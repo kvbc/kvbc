@@ -1,5 +1,9 @@
 I've got some experience in C/C++
 
+Cool VSCode extensions:
+- ESLint
+- Error Lens
+
 # Projects
 
 ❌ Unsatisfied with  
