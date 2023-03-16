@@ -70,6 +70,7 @@ Sites:
   - ✔️ [React Minesweeper](https://github.com/kvbc/react-minesweeper)
   - ✔️ [React Graph Edit](https://github.com/kvbc/react-graph-edit)
   - 🚧 [React Cooking](https://github.com/kvbc/react-cooking)
+  - ✔️ [React Memory Game](https://github.com/kvbc/react-memory-game)
 
 # Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
