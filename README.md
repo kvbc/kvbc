@@ -16,7 +16,7 @@ Don't drop this project: https://github.com/kvbc/react-pathfinding
 Tutorials:
 - 🚧 [opengl-2d-tutorial](https://www.github.com/kvbc/opengl-2d-tutorial)
 
-Tools / Libraries:
+Tools / Libraries / Collections:
 - ✔️ [win-web-klgr](https://www.github.com/kvbc/win-web-klgr)
 - 🚧 [mpmp](https://www.github.com/kvbc/mpmp)
 - ➖ [ofp](https://www.github.com/kvbc/ofp)
@@ -25,6 +25,7 @@ Tools / Libraries:
 - ✔️ [cmdblocks](https://www.github.com/kvbc/cmdblocks)
 - ✔️ [tsgen](https://www.github.com/kvbc/tsgen)
 - ✔️ [epic](https://www.github.com/kvbc/epic)
+- 🚧 [haxe-macros](https://www.github.com/kvbc/haxe-macros)
 
 Graphics Programming:
 - ➖ [graph](https://www.github.com/kvbc/graph)
