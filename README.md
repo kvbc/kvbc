@@ -61,6 +61,7 @@ Games / Plugins:
 - ✔️ [godot-4.0-multiplayer](https://github.com/kvbc/godot-4.0-multiplayer)
 - ❌ [UpKnight](https://github.com/kvbc/upknight)
 - ✔️ [Beat The Beat](https://github.com/kvbc/beat-the-beat)
+- 🚧 [haxe-game](https://github.com/kvbc/haxe-game)
 
 Sites:
 - ✔️ [bf-ide](https://www.github.com/kvbc/bf-ide)
