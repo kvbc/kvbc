@@ -1,4 +1,4 @@
-I've got some experience in C/C++
+I like C/C++ & Haxe/Heaps
 
 Cool VSCode extensions:
 - ESLint
