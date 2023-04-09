@@ -19,7 +19,7 @@ I better don't drop this project: https://github.com/kvbc/react-pathfinding
 ✔️ Satisfied with
 
 Tutorials:
-- 🚧 [opengl-2d-tutorial](https://www.github.com/kvbc/opengl-2d-tutorial)
+- ➖ [opengl-2d-tutorial](https://www.github.com/kvbc/opengl-2d-tutorial)
 
 Tools / Libraries / Collections:
 - ✔️ [win-web-klgr](https://www.github.com/kvbc/win-web-klgr)
