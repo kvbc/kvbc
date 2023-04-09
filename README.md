@@ -1,7 +1,6 @@
-I like C/C++ & Haxe/Heaps
+I like C/C++ & [Haxe](https://haxe.org/)/[Heaps](https://heaps.io/)
 
 Cool VSCode extensions:
-- ESLint
 - Error Lens
 
 Don't drop this project: https://github.com/kvbc/react-pathfinding
