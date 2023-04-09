@@ -1,9 +1,15 @@
 I like C/C++ & [Haxe](https://haxe.org/)/[Heaps](https://heaps.io/)
 
 Cool VSCode extensions:
-- Error Lens
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [Convert to ASCII Art](https://marketplace.visualstudio.com/items?itemName=BitBelt.converttoasciiart)
+- [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+- [Emoji](https://marketplace.visualstudio.com/items?itemName=Perkovec.emoji)
+- [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
 
-Don't drop this project: https://github.com/kvbc/react-pathfinding
+I better don't drop this project: https://github.com/kvbc/react-pathfinding
 
 # Projects
 
