@@ -31,6 +31,7 @@ Tools / Libraries / Collections:
 - ✔️ [tsgen](https://www.github.com/kvbc/tsgen)
 - ✔️ [epic](https://www.github.com/kvbc/epic)
 - 🚧 [haxe-macros](https://www.github.com/kvbc/haxe-macros)
+- 🚧 [cmdnotes](https://github.com/kvbc/cmdnotes/)
 
 Graphics Programming:
 - ➖ [graph](https://www.github.com/kvbc/graph)
