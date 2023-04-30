@@ -9,8 +9,6 @@ Cool VSCode extensions:
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
 
-I better don't drop this project: https://github.com/kvbc/react-pathfinding
-
 # Projects
 
 ❌ Unsatisfied with  
@@ -82,7 +80,7 @@ Webdev:
   - ✔️ [React Graph Edit](https://github.com/kvbc/react-graph-edit)
   - 🚧 [React Cooking](https://github.com/kvbc/react-cooking)
   - ✔️ [React Memory Game](https://github.com/kvbc/react-memory-game)
-  - 🚧 [React Pathfinding](https://github.com/kvbc/react-pathfinding)
+  - ✔️ [React Pathfinding](https://github.com/kvbc/react-pathfinding)
 
 # Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
