@@ -67,6 +67,7 @@ Games / Plugins:
 - ✔️ [Beat The Beat](https://github.com/kvbc/beat-the-beat)
 - 🚧 [haxe-game](https://github.com/kvbc/haxe-game)
 - 🚧 [godot-runner](https://github.com/kvbc/godot-runner)
+- ✔️ [godot-SimpleNet](https://github.com/kvbc/godot-SimpleNet/)
 
 Webdev:
 - ✔️ [bf-ide](https://www.github.com/kvbc/bf-ide)
