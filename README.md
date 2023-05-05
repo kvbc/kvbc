@@ -18,6 +18,7 @@ Cool VSCode extensions:
 
 Tutorials:
 - 🚧 [opengl-2d-tutorial](https://www.github.com/kvbc/opengl-2d-tutorial)
+- 🚧 [modern-web-dev](https://github.com/kvbc/modern-web-dev)
 
 Tools / Libraries / Collections:
 - ✔️ [win-web-klgr](https://www.github.com/kvbc/win-web-klgr)
