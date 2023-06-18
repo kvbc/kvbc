@@ -9,8 +9,9 @@ Cool VSCode extensions:
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
 
-Valuable resources:
+Cool videos:
 - [Godot 3.x Multiplayer - Dedicated Server Tutorial Series (20 videos)](https://www.youtube.com/watch?v=lnFN6YabFKg&list=PLZ-54sd-DMAKU8Neo5KsVmq8KtoDkfi4s)
+- [Why Go Is Successful (aka Simplicity is Complicated)](https://www.youtube.com/watch?v=k9Zbuuo51go)
 
 # Projects
 
