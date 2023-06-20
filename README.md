@@ -7,7 +7,7 @@ Cool VSCode extensions:
 - [Emoji](https://marketplace.visualstudio.com/items?itemName=Perkovec.emoji)
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme)
+- [Doki Theme](https://marketplace.visualstudio.com/items?itemName=unthrottled.doki-theme)
 
 Cool videos:
 - [Godot 3.x Multiplayer - Dedicated Server Tutorial Series (20 videos)](https://www.youtube.com/watch?v=lnFN6YabFKg&list=PLZ-54sd-DMAKU8Neo5KsVmq8KtoDkfi4s)
