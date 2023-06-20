@@ -1,4 +1,4 @@
-Interested in C/C++, Godot & [Haxe](https://haxe.org/)
+Interested in C/C++, Godot, [Haxe](https://haxe.org/) & Go
 
 Cool VSCode extensions:
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
