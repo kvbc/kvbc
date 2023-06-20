@@ -41,13 +41,14 @@ Graphics Programming:
 - ❌ [maincraft](https://www.github.com/kvbc/maincraft)
 - 🚧 [glez](https://www.github.com/kvbc/glez)
 
-Compilers / Interpreters:
+Programming Languages: Compilers / Transpilers / Interpreters:
 - 🚧 [SMPL](https://www.github.com/kvbc/smpl)
 - ✔️ [brackets](https://www.github.com/kvbc/brackets) 
 - ✔️ [bf2c](https://www.github.com/kvbc/bf2c)
 - ✔️ [char](https://www.github.com/kvbc/char)
 - ✔️ [cl-cinp](https://www.github.com/kvbc/cl-cinp)
 - ❌ [factoreh](https://www.github.com/kvbc/factoreh)
+- 🚧 [rylang](https://www.github.com/kvbc/rylang)
 
 Command-line:
 - 🚧 [cge](https://www.github.com/kvbc/cge)
@@ -73,6 +74,7 @@ Games / Plugins:
 - 🚧 [haxe-game](https://github.com/kvbc/haxe-game)
 - 🚧 [godot-runner](https://github.com/kvbc/godot-runner)
 - ✔️ [godot-SimpleNet](https://github.com/kvbc/godot-SimpleNet/)
+- ✔️ [godot-FlowFieldPathfinding](https://github.com/kvbc/godot-FlowFieldPathfinding)
 
 Webdev:
 - ✔️ [bf-ide](https://www.github.com/kvbc/bf-ide)
