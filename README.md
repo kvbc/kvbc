@@ -1,13 +1,14 @@
 Interested in C/C++, Godot, [Haxe](https://haxe.org/) & Go
 
 Cool VSCode extensions:
-- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- ⭐ [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- ⭐ [C/C++ Advanced Lint]https://marketplace.visualstudio.com/items?itemName=jbenden.c-cpp-flylint
+- [Doki Theme](https://marketplace.visualstudio.com/items?itemName=unthrottled.doki-theme)
 - [Convert to ASCII Art](https://marketplace.visualstudio.com/items?itemName=BitBelt.converttoasciiart)
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
 - [Emoji](https://marketplace.visualstudio.com/items?itemName=Perkovec.emoji)
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-- [Doki Theme](https://marketplace.visualstudio.com/items?itemName=unthrottled.doki-theme)
 
 Cool videos:
 - [Godot 3.x Multiplayer - Dedicated Server Tutorial Series (20 videos)](https://www.youtube.com/watch?v=lnFN6YabFKg&list=PLZ-54sd-DMAKU8Neo5KsVmq8KtoDkfi4s)
