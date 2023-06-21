@@ -2,7 +2,7 @@ Interested in C/C++, Godot, [Haxe](https://haxe.org/) & Go
 
 Cool VSCode extensions:
 - ⭐ [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
-- ⭐ [C/C++ Advanced Lint]https://marketplace.visualstudio.com/items?itemName=jbenden.c-cpp-flylint
+- ⭐ [C/C++ Advanced Lint](https://marketplace.visualstudio.com/items?itemName=jbenden.c-cpp-flylint)
 - [Doki Theme](https://marketplace.visualstudio.com/items?itemName=unthrottled.doki-theme)
 - [Convert to ASCII Art](https://marketplace.visualstudio.com/items?itemName=BitBelt.converttoasciiart)
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
