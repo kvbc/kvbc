@@ -42,7 +42,7 @@ Graphics Programming:
 - ❌ [maincraft](https://www.github.com/kvbc/maincraft)
 - 🚧 [glez](https://www.github.com/kvbc/glez)
 
-Programming Languages: Compilers / Transpilers / Interpreters:
+Programming Languages - Compilers / Transpilers / Interpreters:
 - 🚧 [SMPL](https://www.github.com/kvbc/smpl)
 - ✔️ [brackets](https://www.github.com/kvbc/brackets) 
 - ✔️ [bf2c](https://www.github.com/kvbc/bf2c)
