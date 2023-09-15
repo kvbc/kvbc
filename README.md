@@ -90,6 +90,10 @@ Webdev:
   - 🚧 [React Cooking](https://github.com/kvbc/react-cooking)
   - ✔️ [React Memory Game](https://github.com/kvbc/react-memory-game)
   - ✔️ [React Pathfinding](https://github.com/kvbc/react-pathfinding)
+  - Next.js:
+    - ✔️ [Stat Calc](https://github.com/kvbc/nextjs-statcalc)
+    - ✔️ [Quiz](https://github.com/kvbc/nextjs-quiz)
+    - ✔️ [Anime Waifus](https://github.com/kvbc/anime-waifus)  
 
 # Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
