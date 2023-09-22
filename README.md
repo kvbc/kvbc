@@ -93,7 +93,8 @@ Webdev:
   - Next.js:
     - ✔️ [Stat Calc](https://github.com/kvbc/nextjs-statcalc)
     - ✔️ [Quiz](https://github.com/kvbc/nextjs-quiz)
-    - ✔️ [Anime Waifus](https://github.com/kvbc/anime-waifus)  
+    - ✔️ [Anime Waifus](https://github.com/kvbc/anime-waifus)
+    - ✔️ [SQL Notes](https://github.com/kvbc/nextjs-sql-notes)
 
 # Some wicked stuff ![](https://cdn.frankerfacez.com/emoticon/457124/1)
 
