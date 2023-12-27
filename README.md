@@ -18,6 +18,8 @@ Cool videos:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvbc&layout=compact&theme=radical"/>
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=6611343ce708745204310da18f19961a)](https://gist.github.com/kvbc/6611343ce708745204310da18f19961a/)
+
 # Projects
 
 ❌ Unsatisfied with  
