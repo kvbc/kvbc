@@ -14,7 +14,7 @@ Cool videos:
 - [Godot 3.x Multiplayer - Dedicated Server Tutorial Series (20 videos)](https://www.youtube.com/watch?v=lnFN6YabFKg&list=PLZ-54sd-DMAKU8Neo5KsVmq8KtoDkfi4s)
 - [Why Go Is Successful (aka Simplicity is Complicated)](https://www.youtube.com/watch?v=k9Zbuuo51go)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvbc)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects
 
