@@ -129,3 +129,7 @@ Webdev:
 - Real-time web chat application
 
 ![](https://raw.githubusercontent.com/kvbc/realtime-chat-app/main/preview.gif)
+
+- Web notes app
+
+![](https://raw.githubusercontent.com/kvbc/nextjs-sql-notes/main/preview.gif)
