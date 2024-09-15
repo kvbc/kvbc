@@ -125,3 +125,7 @@ Webdev:
 - React Graph Edit
 
 ![](https://raw.githubusercontent.com/kvbc/react-graph-edit/main/preview.gif)
+
+- Real-time web chat application
+
+![](https://raw.githubusercontent.com/kvbc/realtime-chat-app/main/preview.gif)
