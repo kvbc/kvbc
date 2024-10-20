@@ -2,7 +2,14 @@ Interested in C/C++, Godot, [Haxe](https://haxe.org/), Go & Lua
 
 Cool VSCode extensions:
 - ⭐ [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
-- ⭐ [C/C++ Advanced Lint](https://marketplace.visualstudio.com/items?itemName=jbenden.c-cpp-flylint)
+- ⭐ [C/C++ Advanced Lint](https://marketplace.visualstudio.com/items?itemName=jbenden.c-cpp-flylint
+- ⭐ [Prettify TypeScript: Better Type Previews](https://marketplace.visualstudio.com/items?itemName=MylesMurphy.prettify-ts)
+- ⭐ [Pretty TypeScript Errors](https://marketplace.visualstudio.com/items?itemName=yoavbls.pretty-ts-errors)
+- ⭐ [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+- ⭐ [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- ⭐ [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [clangd](https://marketplace.visualstudio.com/items?itemName=llvm-vs-code-extensions.vscode-clangd)
+- [Restore Terminals](https://marketplace.visualstudio.com/items?itemName=EthanSK.restore-terminals)
 - [Doki Theme](https://marketplace.visualstudio.com/items?itemName=unthrottled.doki-theme)
 - [Convert to ASCII Art](https://marketplace.visualstudio.com/items?itemName=BitBelt.converttoasciiart)
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
