@@ -1,5 +1,8 @@
 Interested in C/C++, Godot, [Haxe](https://haxe.org/), Go & Lua
 
+Favourite programming fonts:
+- AudioLink Mono Medium
+
 Cool VSCode extensions:
 - ⭐ [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 - ⭐ [C/C++ Advanced Lint](https://marketplace.visualstudio.com/items?itemName=jbenden.c-cpp-flylint)
