@@ -25,6 +25,9 @@ Cool videos:
 - [Godot 3.x Multiplayer - Dedicated Server Tutorial Series (20 videos)](https://www.youtube.com/watch?v=lnFN6YabFKg&list=PLZ-54sd-DMAKU8Neo5KsVmq8KtoDkfi4s)
 - [Why Go Is Successful (aka Simplicity is Complicated)](https://www.youtube.com/watch?v=k9Zbuuo51go)
 
+Cool software:
+- [Listary](https://www.listary.com/)
+
 ![](https://komarev.com/ghpvc/?username=kvbc)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvbc&layout=compact&theme=radical"/>
